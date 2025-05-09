@@ -65,3 +65,5 @@ pip install -r requirements.txt
 ### ✅ Example Summary for Report/Viva:
 This project uses a CNN model trained on the MNIST dataset to recognize handwritten digits from 28x28 grayscale images. A working Python script and Streamlit interface are included, but only the input/output results are documented for simplicity. Model achieved over 98% accuracy.
 
+### Google colab link
+https://colab.research.google.com/drive/1yg-ZPlGhewpKLh316NCsfx2kOVjhHZiT?usp=sharing
