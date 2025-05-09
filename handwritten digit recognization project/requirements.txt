@@ -1,0 +1,10 @@
+REQUIREMENT FOR THIS PROJECT:
+LIBRARIES:
+streamlit
+tensorflow
+numpy
+pillow
+pandas
+matplotlib
+seaborn
+sklearn
