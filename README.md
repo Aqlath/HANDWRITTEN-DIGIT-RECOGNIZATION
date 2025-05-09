@@ -15,4 +15,9 @@ This project demonstrates a deep learning-based handwritten digit recognition sy
 ---
 
 ## 📁 Folder Structure
-
+├── app.py ← Streamlit application
+├── digit_model.keras ← Trained CNN model
+├── requirements.txt ← List of Python dependencies
+├── mnist_train.csv ← (Optional) Kaggle MNIST training data
+├── mnist_test.csv ← (Optional) Kaggle MNIST test data
+└── README.md ← Project documentation (this file)
